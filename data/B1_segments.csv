@@ -1,0 +1,6 @@
+j,segment,W_seg_min,W_seg_max
+1,Logistics units,0.25,0.4
+2,Grain warehouses & co-ops,0.28,0.54
+3,Port terminals,0.08,0.25
+4,Oil/meal mills,0.05,0.15
+5,Sugar mills,0.0,0.18

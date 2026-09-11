@@ -1,0 +1,14 @@
+k,property,monotonicity,l_min,l_max,aggregation
+1,Qtd,crescente,12,55,aditiva
+2,Vaz,crescente,8,40,aditiva
+3,Tmp,decrescente,90,450,aditiva
+4,Aut,crescente,2,5,aditiva
+5,Tel,crescente,2,4,aditiva
+6,Alc,crescente,18,24,aditiva
+7,Vid,crescente,30,80,aditiva
+8,Ant,crescente,2,5,aditiva
+9,Ins,decrescente,4,10,aditiva
+10,Prot,crescente,500,3000,aditiva
+11,Tens,crescente,0,0,aditiva
+12,Quart,crescente,1,5,aditiva
+13,Qual,crescente,0,5,aditiva

@@ -1,0 +1,6 @@
+# Exact versions used in the last verified run (11 Sep 2026).
+# Pin these if the reported figures ever need to be reproduced bit for bit.
+numpy==2.4.4
+pandas==3.0.2
+scipy==1.17.1
+matplotlib==3.10.9

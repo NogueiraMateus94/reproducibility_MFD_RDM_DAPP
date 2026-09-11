@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: >-
+  Reproducibility package for "From Robust Architecture to Adaptive Pathways:
+  Designing a Modular Grain Sampler Under Deep Uncertainty"
+message: If you use this software or data, please cite it as below.
+type: software
+authors:
+  - given-names: Mateus Antônio da Silva
+    family-names: Nogueira
+    affiliation: Universidade do Vale do Rio dos Sinos (Unisinos)
+    email: mateus.adsn@gmail.com
+  - given-names: Leandro
+    family-names: Gauss
+    affiliation: Universidade do Vale do Rio dos Sinos (Unisinos)
+  - given-names: Colin
+    family-names: de Kwant
+    affiliation: Modular Management
+  - given-names: Pedro
+    family-names: Nascimento de Lima
+    affiliation: RAND Corporation
+abstract: >-
+  Decision model, input data and analysis routines reproducing the modular
+  architecture design, the robustness assessment across a seeded scenario
+  ensemble, the scenario discovery, the threshold grid and the regret analysis
+  reported for the family of electric grain samplers.
+keywords:
+  - product family design
+  - deep uncertainty
+  - modularization
+  - robust decision making
+  - dynamic adaptive policy pathways
+license: MIT
+version: v3.0.0
+date-released: '2026-09-11'

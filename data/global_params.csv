@@ -1,0 +1,7 @@
+param,value,note
+U_MIN,0.45,utility acceptance floor
+C_MAX,170000.0,variable cost ceiling (BRL)
+eps_max,0.3,specification margin (symmetric) - Conduct B uses +/-0.10
+delta_max,0.15,"cost margin - Conduct B uses [-0.15,+0.30]"
+seed,42,RNG seed for LHS
+N_baseline,800,scenario ensemble size

@@ -1,0 +1,30 @@
+module,variant,nominal_variable_cost_BRL,nominal_levels
+M1,Haste fina (grãos),1500,Qtd=18
+M1,Haste grossa (grãos),2000,Qtd=45
+M1,Haste helicoide (açúcar),18000,Qtd=30
+M1,Haste de sucção (arroz),1200,Qtd=20
+M2,Fixo s/ desarme,9000,Tmp=50
+M2,Fixo c/ desarme,10600,Tmp=50
+M2,Telescópico c/ desarme,14500,Tmp=42
+M3,Giro motorredutor,10000,Tmp=20
+M3,Giro servomotor,16000,Tmp=20
+M4,Cremalheira 1 pista,27000,Tmp=30;Vaz=22
+M4,Cremalheira servo 1 pista,43000,Tmp=30;Vaz=22
+M4,Cremalheira 2 pistas,35000,Tmp=30;Vaz=38
+M5,Pneumático (grãos),14000,Tmp=35
+M5,Mecânico (açúcar),9000,Tmp=55
+M6,Manual,6000,Aut=2;Tel=2;Ant=2
+M6,IA assistente,25000,Aut=4;Tel=3;Ant=4;Tmp=-8
+M6,IA + telemetria,38000,Aut=5;Tel=4;Ant=5;Tmp=-8
+M7,18 m,35000,Alc=18;Vid=55;Ins=6
+M7,24 m,48000,Alc=24;Vid=55;Ins=9
+M8,Manual,1100,Quart=1
+M8,Quarteador,12000,Quart=4
+M8,Quarteador + retorno,16000,Quart=5
+M9,Quadro 220 V,8000,Tens=0
+M9,Quadro 380 V,8000,Tens=0
+M9,Quadro 440 V,8000,Tens=0
+M10,Sem NIR,0,
+M10,Com NIR,170000,Qual=5
+Acabamento,Pintura padrão,3000,Prot=500
+Acabamento,Pintura marítima,9000,Prot=3000
